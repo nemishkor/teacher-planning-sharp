@@ -1,0 +1,23 @@
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\Planning\Planning\bin\Release\Planning.exe
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\Planning\Planning\bin\Release\Planning.pdb
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\Planning\Planning\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\Planning\Planning\obj\x86\Release\Planning.Form1.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\Planning\Planning\obj\x86\Release\Planning.Properties.Resources.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\Planning\Planning\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\Planning\Planning\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\Planning\Planning\obj\x86\Release\Planning.exe
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\Planning\Planning\obj\x86\Release\Planning.pdb
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\Planning\Planning\obj\x86\Release\Planning.DetailOfDescipline.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\Planning\Planning\obj\x86\Release\Planning.Results.resources
+C:\Users\nemish94\Documents\Visual Studio 2010\Projects\Planning\Planning\bin\Release\Planning.exe
+C:\Users\nemish94\Documents\Visual Studio 2010\Projects\Planning\Planning\bin\Release\Planning.pdb
+C:\Users\nemish94\Documents\Visual Studio 2010\Projects\Planning\Planning\obj\x86\Release\Planning.DetailOfDescipline.resources
+C:\Users\nemish94\Documents\Visual Studio 2010\Projects\Planning\Planning\obj\x86\Release\Planning.Form1.resources
+C:\Users\nemish94\Documents\Visual Studio 2010\Projects\Planning\Planning\obj\x86\Release\Planning.Properties.Resources.resources
+C:\Users\nemish94\Documents\Visual Studio 2010\Projects\Planning\Planning\obj\x86\Release\Planning.Results.resources
+C:\Users\nemish94\Documents\Visual Studio 2010\Projects\Planning\Planning\obj\x86\Release\Planning.csproj.GenerateResource.Cache
+C:\Users\nemish94\Documents\Visual Studio 2010\Projects\Planning\Planning\obj\x86\Release\Planning.exe
+C:\Users\nemish94\Documents\Visual Studio 2010\Projects\Planning\Planning\obj\x86\Release\Planning.pdb
+C:\Users\nemish94\Documents\Visual Studio 2010\Projects\Planning\Planning\obj\x86\Release\Planning.Form2.resources
+C:\Users\nemish94\Documents\Visual Studio 2010\Projects\Planning\Planning\obj\x86\Release\Planning.NewProfileForm.resources
+C:\Users\nemish94\Documents\Visual Studio 2010\Projects\Planning\Planning\obj\x86\Release\Planning.csproj.ResolveComReference.cache

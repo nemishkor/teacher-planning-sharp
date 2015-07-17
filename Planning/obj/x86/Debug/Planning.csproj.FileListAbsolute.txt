@@ -1,0 +1,13 @@
+C:\Users\nemish94\Documents\Visual Studio 2010\Projects\Planning\Planning\bin\Debug\Planning.exe
+C:\Users\nemish94\Documents\Visual Studio 2010\Projects\Planning\Planning\bin\Debug\Planning.pdb
+C:\Users\nemish94\Documents\Visual Studio 2010\Projects\Planning\Planning\obj\x86\Debug\Planning.csprojResolveAssemblyReference.cache
+C:\Users\nemish94\Documents\Visual Studio 2010\Projects\Planning\Planning\obj\x86\Debug\Planning.csproj.ResolveComReference.cache
+C:\Users\nemish94\Documents\Visual Studio 2010\Projects\Planning\Planning\obj\x86\Debug\Planning.DetailOfDescipline.resources
+C:\Users\nemish94\Documents\Visual Studio 2010\Projects\Planning\Planning\obj\x86\Debug\Planning.Form1.resources
+C:\Users\nemish94\Documents\Visual Studio 2010\Projects\Planning\Planning\obj\x86\Debug\Planning.Form2.resources
+C:\Users\nemish94\Documents\Visual Studio 2010\Projects\Planning\Planning\obj\x86\Debug\Planning.NewProfileForm.resources
+C:\Users\nemish94\Documents\Visual Studio 2010\Projects\Planning\Planning\obj\x86\Debug\Planning.Properties.Resources.resources
+C:\Users\nemish94\Documents\Visual Studio 2010\Projects\Planning\Planning\obj\x86\Debug\Planning.Results.resources
+C:\Users\nemish94\Documents\Visual Studio 2010\Projects\Planning\Planning\obj\x86\Debug\Planning.csproj.GenerateResource.Cache
+C:\Users\nemish94\Documents\Visual Studio 2010\Projects\Planning\Planning\obj\x86\Debug\Planning.exe
+C:\Users\nemish94\Documents\Visual Studio 2010\Projects\Planning\Planning\obj\x86\Debug\Planning.pdb

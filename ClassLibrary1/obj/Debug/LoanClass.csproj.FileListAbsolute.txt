@@ -1,0 +1,5 @@
+C:\Users\nemish94\Documents\Visual Studio 2010\Projects\Planning\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\nemish94\Documents\Visual Studio 2010\Projects\Planning\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\nemish94\Documents\Visual Studio 2010\Projects\Planning\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\nemish94\Documents\Visual Studio 2010\Projects\Planning\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\nemish94\Documents\Visual Studio 2010\Projects\Planning\ClassLibrary1\obj\Debug\LoanClass.csprojResolveAssemblyReference.cache
